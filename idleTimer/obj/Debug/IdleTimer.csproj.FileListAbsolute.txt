@@ -1,0 +1,5 @@
+C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\IdleTimer.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\bin\Debug\idleTimer.dll
+C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\bin\Debug\idleTimer.pdb
+C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\idleTimer.dll
+C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\idleTimer.pdb
