@@ -1,6 +1,0 @@
-C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\bin\Debug\PauseTimer.dll
-C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\bin\Debug\PauseTimer.pdb
-C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\IdleTimer.csprojAssemblyReference.cache
-C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\IdleTimer.csproj.CoreCompileInputs.cache
-C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\PauseTimer.dll
-C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\PauseTimer.pdb
