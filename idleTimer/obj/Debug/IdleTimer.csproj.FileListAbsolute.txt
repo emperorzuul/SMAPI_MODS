@@ -3,3 +3,8 @@ C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\bin\Debug\idleTimer.dll
 C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\bin\Debug\idleTimer.pdb
 C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\idleTimer.dll
 C:\Users\Jessica\source\repos\PauseTimer\PauseTimer\obj\Debug\idleTimer.pdb
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\SMAPI_MODS\idleTimer\obj\Debug\idleTimer.dll
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\SMAPI_MODS\idleTimer\obj\Debug\idleTimer.pdb
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\SMAPI_MODS\idleTimer\obj\Debug\IdleTimer.csproj.CoreCompileInputs.cache
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\SMAPI_MODS\idleTimer\bin\Debug\idleTimer.dll
+C:\Users\eurio\Desktop\GitsForSDV1.3.35\SMAPI_MODS\idleTimer\bin\Debug\idleTimer.pdb
